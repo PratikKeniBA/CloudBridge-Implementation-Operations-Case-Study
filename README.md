@@ -10,9 +10,9 @@
 
 ## Executive Summary
 
-CloudBridge Technologies' customer implementation process relied on manual handovers between Sales and Operations, with no standardized handover template. This led to five identified risks — including incomplete customer information (High risk) and unresolved technical issues delaying Go-Live (Medium risk) — all tracked and mitigated through a formal Risk Register.
+CloudBridge Technologies' customer implementation process relied on manual handovers between Sales and Operations, with no standardized handover template. This led to five identified risks,  including incomplete customer information (High risk) and unresolved technical issues delaying Go-Live (Medium risk). All tracked and mitigated through a formal Risk Register.
 
-This case study analyzes the current implementation process end-to-end, defines clear ownership across 9 activities via a RACI Matrix, and proposes standardized SOPs, SLA targets (e.g., 95% on-time handover, 100% request validation), SQL-based reporting, and a Power BI dashboard — improving implementation efficiency, SLA compliance, and customer experience.
+This case study analyses the current implementation process end-to-end, defines clear ownership across 9 activities via a RACI Matrix, and proposes standardised SOPs, SLA targets (e.g., 95% on-time handover, 100% request validation), SQL-based reporting, and a Power BI dashboard improving implementation efficiency, SLA compliance, and customer experience.
 
 ## What's Inside
 
