@@ -5,8 +5,11 @@
 
 ## Dashboard Preview
 
-<img width="996" height="564" alt="image" src="https://github.com/user-attachments/assets/346dfb24-dfb5-4813-a657-02c3cd849559" />
+## 📊 Dashboard Preview
 
+![Implementation Dashboard](09_Images/dashboard-screenshot.png)
+
+*Power BI dashboard showing SLA compliance, implementation timelines, and bottlenecks*
 
 
 ## Executive Summary
