@@ -6,8 +6,9 @@
 ## Dashboard Preview
 
 ## 📊 Dashboard Preview
+https://github.com/PratikKeniBA/CloudBridge-Implementation-Operations-Case Study/blob/main/06_PowerBI_Dashboard/CloudBridge_Implementation_Power%20BI_Dashboard.pbit 
 
-D:\BA\Sample Project\CloudBridge_Onboarding 
+
 
 *Power BI dashboard showing SLA compliance, implementation timelines, and bottlenecks*
 
