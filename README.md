@@ -7,7 +7,7 @@
 
 ## 📊 Dashboard Preview
 
-![Implementation Dashboard](09_Images/dashboard-screenshot.png)
+D:\BA\Sample Project\CloudBridge_Onboarding 
 
 *Power BI dashboard showing SLA compliance, implementation timelines, and bottlenecks*
 
