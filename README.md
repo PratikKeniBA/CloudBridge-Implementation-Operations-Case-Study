@@ -6,7 +6,7 @@
 ## Dashboard Preview
 
 ## 📊 Dashboard Preview
-https://github.com/PratikKeniBA/CloudBridge-Implementation-Operations-Case Study/blob/main/06_PowerBI_Dashboard/CloudBridge_Implementation_Power%20BI_Dashboard.pbit 
+https://github.com/PratikKeniBA/CloudBridge-Implementation-Operations-Case-Study/blob/main/06_PowerBI_Dashboard/CloudBridge_Implementation_Power%20BI_Dashboard.pbit 
 
 
 
