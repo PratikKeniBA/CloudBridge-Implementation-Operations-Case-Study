@@ -1,7 +1,7 @@
 
 ## 📊 Dashboard Preview
 
-![CloudBridge Customer Implementation Dashboard](09_Images/cloudbridge-dashboard.png)
+
 
 <img width="996" height="564" alt="image" src="https://github.com/user-attachments/assets/346dfb24-dfb5-4813-a657-02c3cd849559" />
 
