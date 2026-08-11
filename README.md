@@ -17,25 +17,30 @@ This case study analyses the current implementation process end-to-end, defines 
 
 ## What's Inside
 
-| Folder | Contents |
+## 🗂️ Quick Navigation
+
+| Folder | What You'll Find |
 |---|---|
-| **01_Project_Documentation** | SOP, GAP Analysis, RACI Matrix, Risk Register, SIPOC Diagram, SLA Matrix |
-| **02_Process_Analysis** | Current-state vs. future-state process mapping |
-| **03_SQL** | Queries analyzing implementation timelines, SLA breaches, and bottlenecks |
-| **04_Dataset** | Sample implementation and SLA tracking data |
-| **05_PowerBI** | Interactive dashboard tracking SLAs, onboarding timelines, and KPIs |
-
-## Key Deliverables
-
-- Standard Operating Procedure (SOP) for end-to-end customer implementation
-- GAP Analysis identifying operational gaps with recommendations and business impact
-- RACI Matrix defining ownership across 9 implementation activities
-- Risk Register covering 5 key risks with mitigation plans
-- SIPOC Diagram mapping suppliers, inputs, process, outputs, and customers
-- SLA Matrix defining turnaround times and KPIs for every implementation step
-- SQL analysis of implementation timelines and SLA performance
-- Power BI dashboard for operational monitoring
+| `01_Project_Overview` | Project scope, objectives and business context |
+| `02_Business_Analysis` | BRD, FRD, requirements and user stories |
+| `03_Implementation` | Implementation planning, onboarding and SLA activities |
+| `04_SQL_Analytics` | SQL queries and implementation analysis |
+| `05_Data` | Sample implementation and SLA tracking data |
+| `06_PowerBI_Dashboard` | Power BI dashboard and supporting files |
+| `07_Process_Design` | AS-IS, TO-BE, SIPOC and process improvement |
+| `08_Project_Management` | RACI, risk register and stakeholder management |
+| `09_Images` | Dashboard screenshots and project visuals |
 
 ## Skills Demonstrated
 
 Process Design (SOP/SIPOC) • RACI & Stakeholder Mapping • Risk Management • GAP Analysis • SQL • Power BI • SLA Design & Monitoring • Business Operations Analysis
+---
+
+## 📫 Contact
+
+**Pratik Keni**
+
+📧 Email: pratikkeni91@gmail.com  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pratikkeni91/)
+
+**Open to:** Implementation Analyst | Business Operations Analyst | Customer Success Operations
