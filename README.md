@@ -3,10 +3,11 @@
 
 *Self-directed learning project simulating a real SaaS customer implementation environment. CloudBridge Technologies is a fictional company built to practice end-to-end Business Operations and Implementation workflows.*
 
-## Dashboard Preview
-
 ## 📊 Dashboard Preview
-https://github.com/PratikKeniBA/CloudBridge-Implementation-Operations-Case-Study/blob/main/06_PowerBI_Dashboard/CloudBridge_Implementation_Power%20BI_Dashboard.pbit 
+
+![Implementation Dashboard](09_Images/Power%20BI.png)
+
+*Power BI dashboard showing SLA compliance, implementation timelines, and bottlenecks.*
 
 <img width="996" height="564" alt="image" src="https://github.com/user-attachments/assets/346dfb24-dfb5-4813-a657-02c3cd849559" />
 
